@@ -1,0 +1,9 @@
+Program started sorting at Fri Feb  9 16:27:41 2018
+
+It took you 50 seconds to get all your results!
+
+Program ended at Fri Feb  9 16:28:31 2018
+Max age id is : 153
+Min age id is : 91
+16% of males have higher education
+Mesos oros hlikiwn einai : 60.5
