@@ -1,2 +1,2 @@
 # MyPrograms
-Program i made while learning
+Programs I made while learning to code
